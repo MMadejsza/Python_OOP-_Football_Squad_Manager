@@ -1,5 +1,7 @@
 # Python_OOP?_Football_Squad_Manager
-This project is one of the scenarios given at my university to practice programming in Python. Graded for 82.
+This project is one of the scenarios given at my university to practice programming in Python. 
+
+Graded for 82. Tutor ~Arturo Araujo https://arturo.mystrikingly.com/
 
 ## Uses inter alia concepts of:
 Classes, objects and functions encapsulation, looping, external libraries
