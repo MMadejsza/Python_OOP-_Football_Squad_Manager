@@ -1,0 +1,4 @@
+UID, Name, D.o.B, speed, shooting, passing, defending, dribbling, physicality
+13, Lieke Martens, 1992-12-16, 5, 5, 5, 3, 3, 5
+02, Cristiano Ronaldo, 1985-02-05, 4, 4, 4, 3, 3, 4
+24, Lucy Bronze, 1991-10-28, 3, 3, 2, 3, 2, 2
